@@ -1,8 +1,9 @@
 {
   "name": "th-wakasagihime",
-  "version": "0.2.0-a",
+  "version": "0.2.0",
   "title": "Touhou Wakasagihime",
   "author": "UnknownRori",
+  "contacts": "unknownrori+factorio@proton.me",
   "factorio_version": "2.0",
   "dependencies": [
     "base >= 2.0",
