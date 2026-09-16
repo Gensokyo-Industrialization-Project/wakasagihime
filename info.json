@@ -1,9 +1,12 @@
 {
   "name": "th-wakasagihime",
-  "version": "0.1.0",
+  "version": "0.2.0-a",
   "title": "Touhou Wakasagihime",
   "author": "UnknownRori",
   "factorio_version": "2.0",
-  "dependencies": ["base >= 2.0"],
+  "dependencies": [
+    "base >= 2.0",
+    "? space-age"
+  ],
   "description": "Change the base game Raw Fish into Wakasagihime character from Touhou Project, just flavor image to satisfy your industrialization in Gensokyo"
 }
