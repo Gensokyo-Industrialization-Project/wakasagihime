@@ -1,6 +1,6 @@
 # add korean localization
 
-- STATUS: OPEN
+- STATUS: CLOSED
 - PRIORITY: 75
 - TAGS: locale
 
