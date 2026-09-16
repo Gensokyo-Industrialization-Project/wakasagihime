@@ -1,6 +1,6 @@
 # add other localization
 
-- STATUS: OPEN
+- STATUS: CLOSED
 - PRIORITY: 80
 - TAGS: locale
 
