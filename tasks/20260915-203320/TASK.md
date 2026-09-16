@@ -1,6 +1,6 @@
 # add indonesian localization
 
-- STATUS: OPEN
+- STATUS: CLOSED
 - PRIORITY: 100
 - TAGS: locale
 
