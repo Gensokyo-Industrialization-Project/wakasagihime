@@ -8,11 +8,17 @@ fish.icon_size = 84 -- I know it weird but it's because my drawing okay
 
 -- space age dlc recipe specific
 if data.raw["recipe"]["fish-breeding"] then
-	data.raw["recipe"]["fish-breeding"].icon = "__th-wakasagihime__/graphics/wakasagihime-breeding.png"
-	data.raw["recipe"]["fish-breeding"].icon_size = 64
+	local fish_breeding = data.raw["recipe"]["fish-breeding"]
+	fish_breeding.localised_name = { "recipe-name.fish-breeding" }
+	fish_breeding.localised_description = { "recipe-description.fish-breeding" }
+	fish_breeding.icon = "__th-wakasagihime__/graphics/wakasagihime-breeding.png"
+	fish_breeding.icon_size = 64
 end
 
 if data.raw["recipe"]["nutrients-from-fish"] then
-	data.raw["recipe"]["nutrients-from-fish"].icon = "__th-wakasagihime__/graphics/nutrients-from-wakasagihime.png"
-	data.raw["recipe"]["nutrients-from-fish"].icon_size = 64
+	local nutrients_from_fish = data.raw["recipe"]["nutrients-from-fish"]
+	nutrients_from_fish.localised_name = { "recipe-name.nutrients-from-fish" }
+	nutrients_from_fish.localised_description = { "recipe-description.nutrients-from-fish" }
+	nutrients_from_fish.icon = "__th-wakasagihime__/graphics/nutrients-from-wakasagihime.png"
+	nutrients_from_fish.icon_size = 64
 end
