@@ -20,5 +20,5 @@ if data.raw["recipe"]["nutrients-from-fish"] then
 	nutrients_from_fish.localised_name = { "recipe-name.nutrients-from-fish" }
 	nutrients_from_fish.localised_description = { "recipe-description.nutrients-from-fish" }
 	nutrients_from_fish.icon = "__th-wakasagihime__/graphics/nutrients-from-wakasagihime.png"
-	nutrients_from_fish.icon_size = 64
+	nutrients_from_fish.icon_size = 84 -- I know it weird but it's because my drawing okay
 end

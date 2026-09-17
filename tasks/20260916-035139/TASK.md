@@ -1,6 +1,6 @@
 # change fish breeding icon into wakasagihime breeding
 
-- STATUS: OPEN
+- STATUS: CLOSED
 - PRIORITY: 100
 - TAGS: sprite
 
