@@ -1,6 +1,6 @@
 # change nutrient to fish into something else, don't ask me what happen to her you monster
 
-- STATUS: OPEN
+- STATUS: CLOSED
 - PRIORITY: 100
 - TAGS: sprite
 
