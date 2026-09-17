@@ -1,10 +1,14 @@
 # add description and name change to space age dlc fish recipe
 
-- STATUS: OPEN
+- STATUS: CLOSED
 - PRIORITY: 100
 - TAGS: locale
 
-- [ ] English
-- [ ] Indonesian
-- [ ] Japanese
-- [ ] Korean
+- [x] English
+- [x] Indonesian
+- [x] Japanese
+- [x] Korean
+
+---
+
+More or less done, but need some verification.
