@@ -1,4 +1,14 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.2.0
+Date: 18. 09. 2026
+  Features:
+    - Change Fish Breeding into Wakasagihime Breeding.
+    - Change Nutrients from Fish into Nutrients from Wakasagihime (you monster).
+  Locale:
+    - Add Indonesian translation.
+    - Add Korean translation using Google Translate. (feedback needed as I'm not sure about it)
+    - Add Japanese translation using Google Translate. (feedback needed as I'm not sure about it)
+----------------------------------------------------------------------------------------------------
 Version: 0.1.0
 Date: 15. 09. 2026
   Features:
